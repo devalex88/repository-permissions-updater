@@ -1,0 +1,8 @@
+---
+name: "katalon-plugin"
+github: "jenkinsci/katalon-plugin"
+paths:
+- "com/katalon/jenkins/plugin"
+developers:
+- "devalex88"
+- "thongmgnguyen"
